@@ -1,0 +1,85 @@
+.top-div {
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+      ), url("images/back-1.jpg");
+    height: 100vh;
+}
+
+.mid-heading {
+    padding: 7% 5% 0 9%;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.APIs{
+    color: white;
+    font-size: 22px;
+    background-color: grey;
+    height: 320px;
+    width: auto;
+    border-radius: 12px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.ml{
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 1), 
+        rgba(0, 0, 0, 0.7)
+      ), url("images/ml.png");
+}
+
+.media{
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 1), 
+        rgba(0, 0, 0, 0.7)
+      ), url("images/media.png");
+}
+
+.general{
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 1), 
+        rgba(0, 0, 0, 0.7)
+      ), url("images/general.png");
+    
+}
+
+.future{
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 1), 
+        rgba(0, 0, 0, 0.7)
+      ), url("images/future.png");
+}
+
+.use{
+    height: 200px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.use:hover{
+    background-color: rgb(174, 172, 172);
+}
+
+.price{ 
+
+    background-color: beige;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 12px;
+    text-align: center;
+    height: 70vh;
+}
+
+.price:hover{
+    box-shadow: 5px 10px;
+}
+
+.para{
+    margin: 40px;
+}
